@@ -22,4 +22,4 @@ A video demo is available, walking through the code execution using VS Code's de
 - Stepping through code to observe object manipulation and data flow.
 - Inspecting variables and explaining database interaction logic.
 
-*[(Note: Link to your YouTube or video platform demo here)](https://youtu.be/RHBWOQKJZmI)*
+*[(Note: Link to my video walkthrough demo here)](https://youtu.be/RHBWOQKJZmI)*
